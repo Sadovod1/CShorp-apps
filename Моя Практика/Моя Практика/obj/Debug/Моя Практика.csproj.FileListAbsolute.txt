@@ -1,0 +1,7 @@
+D:\Users\Гоша\Visual Studio\Моя Практика\Моя Практика\bin\Debug\Моя Практика.exe.config
+D:\Users\Гоша\Visual Studio\Моя Практика\Моя Практика\bin\Debug\Моя Практика.exe
+D:\Users\Гоша\Visual Studio\Моя Практика\Моя Практика\bin\Debug\Моя Практика.pdb
+D:\Users\Гоша\Visual Studio\Моя Практика\Моя Практика\obj\Debug\Моя Практика.csprojAssemblyReference.cache
+D:\Users\Гоша\Visual Studio\Моя Практика\Моя Практика\obj\Debug\Моя Практика.csproj.CoreCompileInputs.cache
+D:\Users\Гоша\Visual Studio\Моя Практика\Моя Практика\obj\Debug\Моя Практика.exe
+D:\Users\Гоша\Visual Studio\Моя Практика\Моя Практика\obj\Debug\Моя Практика.pdb
